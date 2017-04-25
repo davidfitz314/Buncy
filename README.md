@@ -1,2 +1,2 @@
 # Buncy
-Glut build ball bounce dynamics 2d environment
+Glut build, ball bounce dynamics in a 2d environment
